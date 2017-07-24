@@ -1,7 +1,7 @@
 #!/bin/sh
 
 #check whether there is only one parameter passed
-if [ "$#" -ne 1]
+if [ "$#" -ne 1 ]
 then
   echo "Illegal number of parameters"
 else 
